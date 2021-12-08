@@ -1,5 +1,5 @@
 # pyqt-popup-graphics-view
-PyQt Popup QGraphicsView (Image will pop up when move the mouse cursor inside the QGraphicsView)
+PyQt Popup QGraphicsView (Image will pop up when move the mouse cursor inside the QGraphicsView, follow the cursor if you move it inside of the window)
 
 ## Requirements
 PyQt5 >= 5.8
