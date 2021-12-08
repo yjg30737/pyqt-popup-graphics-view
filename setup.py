@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     author='Jung Gyu Yoon',
     author_email='yjg30737@gmail.com',
-    license='MIT',
+    license='GPL 3.0',
     packages=find_packages(),
     description='PyQt Popup QGraphicsView (Image will pop up when move the mouse cursor inside the QGraphicsView)',
     url='https://github.com/yjg30737/pyqt-popup-graphics-view.git',
