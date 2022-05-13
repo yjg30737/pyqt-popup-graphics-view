@@ -5,10 +5,7 @@ PyQt Popup QGraphicsView (Image will pop up when move the mouse cursor inside th
 PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-popup-graphics-view.git --upgrade```
-
-## License
-GPL 3.0v unlike the others!
+`python -m pip install pyqt-popup-graphics-view`
 
 ## Example
 Code Example
